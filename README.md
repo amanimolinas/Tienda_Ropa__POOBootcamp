@@ -14,7 +14,7 @@ El propósito de este proyecto es:
 - **pantalon**: Clase que hereda de ropa, representa pantalones con atributos específicos como talla, tipo de tela y marca.
 - **zapato**: Clase que hereda de Producto, representa zapatos con atributos específicos como talla.
 - **tienda.py**: Clase que gestiona los productos disponibles y procesa las compras.
--**carrito.py**: Donde se almacenan los productos seleccionados.
+- **carrito.py**: Donde se almacenan los productos seleccionados.
 
 ## Funcionalidades
 
