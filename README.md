@@ -8,7 +8,7 @@ El propósito de este proyecto es:
 
 ## Estructura del Proyecto
 
--**menu.py**: Ejecuta el programa principal
+- **menu.py**: Ejecuta el programa principal
 - **producto.py**: Clase base que representa un producto general.
 - **camisa**: Clase que hereda de ropa, representa camisas con atributos específicos como talla, tipo de tela y color.
 - **pantalon**: Clase que hereda de ropa, representa pantalones con atributos específicos como talla, tipo de tela y marca.
